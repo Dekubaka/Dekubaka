@@ -1,4 +1,6 @@
-### I.T professional with a sprinkle of developer. I love to automate things to make your life easier.
+### I.T professional with a sprinkle of developer. 
+
+I love to automate things to make your life easier.
 
 <!--
 **Dekubaka/dekubaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
